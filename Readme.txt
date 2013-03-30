@@ -6,9 +6,9 @@ python pyURandom.py [-B|-E|-D|-O|-N] [-h|--help]
 Parameters: (Arguments)
 	[-h|--help]					show help information
 	------------------------------------------------------------
-   [-B|--BeginSize]        Begin range of file size      (int)
-	[-E|--EndSize]			   End range of file size        (int)
-   [-D|--FileDIR]          Save file in Folder name      (String)
+        [-B|--BeginSize]        Begin range of file size      (int)
+	[-E|--EndSize]		End range of file size        (int)
+        [-D|--FileDIR]          Save file in Folder name      (String)
 	[-O|--FileDirNum]       Number of file directory      (int) 
 	[-N|--FileNum]          Number of file in final layer (int) 
 	------------------------------------------------------------
